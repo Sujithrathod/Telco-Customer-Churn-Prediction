@@ -1,5 +1,9 @@
 # 📡 Telco Customer Churn Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telco-customer-churn-predictor-web.streamlit.app/)
+
+🔗 **Live Demo:** [https://telco-customer-churn-predictor-web.streamlit.app](https://telco-customer-churn-predictor-web.streamlit.app/)
+
 An end-to-end machine learning application that predicts customer churn for a telecommunications company. The system uses an ensemble of three classifiers to identify at-risk customers and recommend retention actions in real time.
 
 ---
@@ -258,6 +262,8 @@ docker run -p 8000:8000 churn-api
 ---
 
 ## ☁️ Cloud Deployment
+
+🔗 **Live App:** [https://telco-customer-churn-predictor-web.streamlit.app](https://telco-customer-churn-predictor-web.streamlit.app/)
 
 | Component | Platform | Tier |
 |-----------|----------|------|
